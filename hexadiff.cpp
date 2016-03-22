@@ -3,11 +3,8 @@ hexadiff: a command line utility for detecting homographical attacks i.e. unicod
 */
 
 #include <iostream>
-#include <string>
 #include <cstdio>
-
-#define RESET   "\033[0m"
-#define RED     "\033[31m"
+#include "hexadiff.h"
 
 using namespace std;
 
