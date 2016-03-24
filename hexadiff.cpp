@@ -3,6 +3,7 @@ hexadiff: a command line utility for detecting homographical attacks i.e. unicod
 */
 
 #include <iostream>
+#include <cstdio>
 #include "hexadiff.h"
 
 using namespace std;
